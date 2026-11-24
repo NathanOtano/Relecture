@@ -1,5 +1,7 @@
 # Conditions de la bêta
 
+Ces conditions couvrent la bêta Relecture pour ordinateur et Relecture Texte dans ChatGPT. Pour Relecture Texte, choisissez les extraits à ajouter à votre conversation et relisez les propositions avant de les réutiliser.
+
 Relecture est proposé à l’essai pour relire vos textes. Utilisez uniquement des documents que vous avez le droit de traiter. Avant de partager une copie, vérifiez le destinataire et les droits de diffusion du texte. Retrouvez le fonctionnement de ChatGPT et des liens dans la [notice de confidentialité](PRIVACY.md).
 
 Conservez une copie de vos originaux et relisez les corrections et les fichiers exportés avant de les utiliser. Les fonctionnalités de cette bêta peuvent évoluer.

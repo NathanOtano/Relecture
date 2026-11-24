@@ -1,5 +1,12 @@
 # Confidentialité de Relecture
 
+## Relecture Texte dans ChatGPT
+
+Relecture Texte travaille sur les extraits que vous fournissez à la conversation. Les corrections proposées et les commentaires apparaissent dans le chat. Le traitement et la conservation de ces échanges suivent les réglages de votre compte ChatGPT. Pour un premier essai, vous pouvez demander l’exemple fictif fourni avec cette édition. [Contrôles des données de ChatGPT](https://help.openai.com/en/articles/7730893-data-controls-faq)
+
+## Relecture pour ordinateur
+
+
 Le serveur Relecture s’exécute sur votre ordinateur. Il crée une configuration locale et un atelier fictif au premier lancement. Il lit les espaces déclarés dans sa configuration et conserve localement les brouillons, commentaires, corrections et versions de travail. Les modifications appliquées écrivent dans le Markdown de l’espace autorisé.
 
 ## Dans ChatGPT

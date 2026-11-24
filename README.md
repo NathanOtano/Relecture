@@ -2,6 +2,12 @@
 
 Relecture est un plugiciel de bureau pour relire un texte dans ChatGPT, commenter un passage et examiner des corrections. L’atelier **La dernière balise** permet de l’essayer avec une scène fictive.
 
+## Relecture Texte dans ChatGPT
+
+Une édition **Relecture Texte** est en préparation pour ChatGPT. Elle propose des corrections et commente les passages que vous fournissez dans la conversation. Vous choisissez quelles propositions retenir.
+
+[Assistance](SUPPORT.md) · [Confidentialité](PRIVACY.md#relecture-texte-dans-chatgpt) · [Conditions de la bêta](TERMS.md)
+
 ## Installer la bêta
 
 1. Téléchargez [Relecture 1.14.1 pour ordinateur](https://github.com/NathanOtano/Relecture/releases/download/v1.14.1/Relecture-1.14.1-desktop.zip) et décompressez le ZIP.
